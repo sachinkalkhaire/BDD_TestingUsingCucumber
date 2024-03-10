@@ -7,15 +7,23 @@ Background: Steps common for all scenrios
     And   User click on Login button
     Then  User can view Dashboad
 @Sanity
-Scenario: Add New Customer
+Scenario Outline: Add New Customer
     When  User click on customers Menu
     And   click on customers Menu Item
     And   click on Add new button
     Then  User can view Add new customer page
-    When  User enter customer info
+    When  User enter customer info from sheetname "<SheetName>" and rownumber <RowNumber>
     And   click on Save button
     Then  User can view confirmation message "The new customer has been added successfully"
     And   close browser
+    
+    Examples:
+    |SheetName|RowNumber|
+    |contactus|1|
+    |contactus|2|
+    |contactus|3|
+    |contactus|4|    
+    |contactus|5|
     
 @Regression
 Scenario: Search Customer by Email

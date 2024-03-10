@@ -1966,3 +1966,679 @@
 [INFO ] 2024-03-02 14:14:05.167 [main] StepDef - click on logout button
 [INFO ] 2024-03-02 14:14:05.206 [main] StepDef - page title match
 [INFO ] 2024-03-02 14:14:05.756 [main] StepDef - close browser
+[INFO ] 2024-03-04 18:11:42.784 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-04 18:11:42.903 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-04 18:12:00.318 [main] StepDef - url open
+[INFO ] 2024-03-04 18:12:00.712 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-04 18:12:02.740 [main] StepDef - click on login button
+[INFO ] 2024-03-04 18:12:05.190 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-04 18:12:05.194 [main] StepDef - user enter email add 
+[INFO ] 2024-03-04 18:12:05.565 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-04 18:12:05.565 [main] StepDef - user enter email add 
+[INFO ] 2024-03-04 18:12:07.096 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-04 18:12:09.573 [main] StepDef - user click on add new button
+[INFO ] 2024-03-04 18:12:09.602 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-04 18:12:11.496 [main] StepDef - user can enter customer information
+[INFO ] 2024-03-04 18:12:12.811 [main] StepDef - click on save button
+[INFO ] 2024-03-04 18:12:13.765 [main] StepDef - user can view confirmation message pass
+[INFO ] 2024-03-04 18:12:14.075 [main] StepDef - close browser
+[INFO ] 2024-03-04 18:12:15.107 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-04 18:12:15.110 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-04 18:12:16.797 [main] StepDef - url open
+[INFO ] 2024-03-04 18:12:17.172 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-04 18:12:20.044 [main] StepDef - click on login button
+[INFO ] 2024-03-04 18:12:21.607 [main] StepDef - page title match
+[INFO ] 2024-03-04 18:12:24.394 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-04 18:12:24.397 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-04 18:12:25.933 [main] StepDef - url open
+[INFO ] 2024-03-04 18:12:26.299 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-04 18:12:28.905 [main] StepDef - click on login button
+[INFO ] 2024-03-04 18:12:30.366 [main] StepDef - page title match
+[INFO ] 2024-03-04 18:12:33.054 [main] StepDef - click on logout button
+[INFO ] 2024-03-04 18:12:33.092 [main] StepDef - page title match
+[INFO ] 2024-03-04 18:12:33.576 [main] StepDef - close browser
+[INFO ] 2024-03-04 18:14:50.383 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-04 18:14:50.452 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-04 18:14:52.196 [main] StepDef - url open
+[INFO ] 2024-03-04 18:14:52.580 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-04 18:14:56.313 [main] StepDef - click on login button
+[INFO ] 2024-03-04 18:14:58.245 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-04 18:14:58.250 [main] StepDef - user enter email add 
+[INFO ] 2024-03-04 18:14:58.584 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-04 18:14:58.585 [main] StepDef - user enter email add 
+[INFO ] 2024-03-04 18:15:00.318 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-04 18:15:02.018 [main] StepDef - user click on add new button
+[INFO ] 2024-03-04 18:15:02.046 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-04 18:15:03.766 [main] StepDef - user can enter customer information
+[INFO ] 2024-03-04 18:15:04.960 [main] StepDef - click on save button
+[INFO ] 2024-03-04 18:15:05.810 [main] StepDef - user can view confirmation message pass
+[INFO ] 2024-03-04 18:15:06.096 [main] StepDef - close browser
+[INFO ] 2024-03-04 18:15:07.196 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-04 18:15:07.198 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-04 18:15:08.532 [main] StepDef - url open
+[INFO ] 2024-03-04 18:15:08.860 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-04 18:15:12.341 [main] StepDef - click on login button
+[INFO ] 2024-03-04 18:15:15.049 [main] StepDef - page title match
+[INFO ] 2024-03-04 18:15:18.106 [main] StepDef - click on logout button
+[INFO ] 2024-03-04 18:15:18.162 [main] StepDef - page title match
+[INFO ] 2024-03-04 18:15:18.956 [main] StepDef - close browser
+[INFO ] 2024-03-04 18:15:19.930 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-04 18:15:19.932 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-04 18:15:21.702 [main] StepDef - url open
+[INFO ] 2024-03-04 18:15:22.055 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-04 18:15:31.180 [main] StepDef - click on login button
+[INFO ] 2024-03-04 18:15:32.702 [main] StepDef - page title match
+[INFO ] 2024-03-04 18:15:35.576 [main] StepDef - click on logout button
+[INFO ] 2024-03-04 18:15:35.628 [main] StepDef - page title match
+[INFO ] 2024-03-04 18:15:37.014 [main] StepDef - close browser
+[INFO ] 2024-03-09 10:15:10.082 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 10:15:10.204 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 10:15:12.057 [main] StepDef - url open
+[INFO ] 2024-03-09 10:15:12.541 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 10:15:14.828 [main] StepDef - click on login button
+[INFO ] 2024-03-09 10:15:16.387 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 10:15:16.392 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 10:15:16.729 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 10:15:16.729 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 10:15:18.273 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 10:15:19.961 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 10:15:20.001 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 10:15:21.893 [main] StepDef - user can enter customer information
+[INFO ] 2024-03-09 10:15:23.044 [main] StepDef - click on save button
+[INFO ] 2024-03-09 10:15:23.210 [main] StepDef - user can view confirmation message pass
+[INFO ] 2024-03-09 10:15:23.498 [main] StepDef - close browser
+[INFO ] 2024-03-09 10:15:24.531 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 10:15:24.535 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 10:15:26.344 [main] StepDef - url open
+[INFO ] 2024-03-09 10:15:26.710 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 10:15:29.975 [main] StepDef - click on login button
+[INFO ] 2024-03-09 10:15:31.512 [main] StepDef - page title match
+[INFO ] 2024-03-09 10:15:33.942 [main] StepDef - click on logout button
+[INFO ] 2024-03-09 10:15:33.999 [main] StepDef - page title match
+[INFO ] 2024-03-09 10:15:34.800 [main] StepDef - close browser
+[INFO ] 2024-03-09 10:15:35.956 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 10:15:35.960 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 10:15:38.062 [main] StepDef - url open
+[INFO ] 2024-03-09 10:15:38.424 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 10:15:41.606 [main] StepDef - click on login button
+[INFO ] 2024-03-09 10:15:43.097 [main] StepDef - page title match
+[INFO ] 2024-03-09 10:15:45.426 [main] StepDef - click on logout button
+[INFO ] 2024-03-09 10:15:45.476 [main] StepDef - page title match
+[INFO ] 2024-03-09 10:15:46.250 [main] StepDef - close browser
+[INFO ] 2024-03-09 10:59:51.375 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 10:59:51.529 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 10:59:53.828 [main] StepDef - url open
+[INFO ] 2024-03-09 10:59:54.370 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 10:59:56.460 [main] StepDef - click on login button
+[INFO ] 2024-03-09 10:59:56.479 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 10:59:56.481 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 10:59:58.399 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 10:59:58.399 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 10:59:59.878 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 11:00:01.333 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 11:00:01.600 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 11:00:02.862 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 11:00:02.866 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:00:04.827 [main] StepDef - url open
+[INFO ] 2024-03-09 11:00:05.202 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 11:00:08.477 [main] StepDef - click on login button
+[INFO ] 2024-03-09 11:00:08.505 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 11:00:08.506 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:00:10.431 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 11:00:10.431 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:00:11.800 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 11:00:13.608 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 11:00:13.636 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 11:00:15.005 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 11:00:15.009 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:00:16.770 [main] StepDef - url open
+[INFO ] 2024-03-09 11:00:17.352 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 11:00:20.344 [main] StepDef - click on login button
+[INFO ] 2024-03-09 11:00:21.861 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 11:00:21.861 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:00:22.252 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 11:00:22.252 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:00:23.939 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 11:00:25.536 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 11:00:25.561 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 11:00:26.936 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 11:00:26.938 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:00:28.788 [main] StepDef - url open
+[INFO ] 2024-03-09 11:00:29.287 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 11:00:32.619 [main] StepDef - click on login button
+[INFO ] 2024-03-09 11:00:34.109 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 11:00:34.109 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:00:34.453 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 11:00:34.453 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:00:36.127 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 11:00:37.648 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 11:00:37.673 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 11:00:39.156 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 11:00:39.158 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:00:41.056 [main] StepDef - url open
+[INFO ] 2024-03-09 11:00:41.480 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 11:00:44.751 [main] StepDef - click on login button
+[INFO ] 2024-03-09 11:00:44.780 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 11:00:44.780 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:00:46.645 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 11:00:46.646 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:00:48.299 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 11:00:49.852 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 11:00:49.884 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 11:00:50.123 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:00:50.192 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:16:35.550 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 11:16:35.641 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:16:37.816 [main] StepDef - url open
+[INFO ] 2024-03-09 11:16:38.314 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 11:16:40.333 [main] StepDef - click on login button
+[INFO ] 2024-03-09 11:16:41.797 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 11:16:41.803 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:16:42.176 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 11:16:42.176 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:16:43.859 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 11:16:45.483 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 11:16:45.516 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 11:16:47.045 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 11:16:47.047 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:16:47.954 [main] StepDef - url open
+[INFO ] 2024-03-09 11:16:48.367 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 11:16:51.137 [main] StepDef - click on login button
+[INFO ] 2024-03-09 11:16:52.605 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 11:16:52.606 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:16:52.949 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 11:16:52.949 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:16:54.319 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 11:16:56.001 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 11:16:56.028 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 11:16:57.334 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 11:16:57.336 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:16:59.018 [main] StepDef - url open
+[INFO ] 2024-03-09 11:16:59.484 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 11:17:02.283 [main] StepDef - click on login button
+[INFO ] 2024-03-09 11:17:03.989 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 11:17:03.989 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:17:04.408 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 11:17:04.408 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:17:05.879 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 11:17:07.709 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 11:17:08.445 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 11:17:09.646 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 11:17:09.649 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:17:11.683 [main] StepDef - url open
+[INFO ] 2024-03-09 11:17:12.180 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 11:17:15.223 [main] StepDef - click on login button
+[INFO ] 2024-03-09 11:17:16.805 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 11:17:16.806 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:17:17.238 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 11:17:17.238 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:17:18.668 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 11:17:20.336 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 11:17:20.361 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 11:17:21.884 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 11:17:21.890 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:17:23.698 [main] StepDef - url open
+[INFO ] 2024-03-09 11:17:24.011 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 11:17:26.735 [main] StepDef - click on login button
+[INFO ] 2024-03-09 11:17:28.418 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 11:17:28.418 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:17:28.758 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 11:17:28.758 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 11:17:30.265 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 11:17:31.864 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 11:17:31.904 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 11:17:32.173 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 11:17:32.282 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:29:05.309 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:29:05.405 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:29:07.372 [main] StepDef - url open
+[INFO ] 2024-03-09 12:29:07.880 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:29:10.109 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:29:11.736 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:29:11.739 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:29:12.205 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:29:12.205 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:29:13.626 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:29:15.388 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:29:16.147 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:29:19.885 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:29:20.709 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:29:22.310 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:29:22.312 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:29:24.249 [main] StepDef - url open
+[INFO ] 2024-03-09 12:29:24.624 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:29:27.803 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:29:29.295 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:29:29.295 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:29:29.627 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:29:29.628 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:29:30.963 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:29:32.717 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:29:32.752 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:29:35.467 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:29:36.554 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:29:38.238 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:29:38.240 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:29:39.786 [main] StepDef - url open
+[INFO ] 2024-03-09 12:29:40.145 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:29:42.266 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:29:43.048 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:29:43.048 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:29:43.472 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:29:43.472 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:29:45.033 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:29:47.118 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:29:47.179 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:29:50.170 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:29:50.944 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:29:52.504 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:29:52.507 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:29:54.308 [main] StepDef - url open
+[INFO ] 2024-03-09 12:29:54.695 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:29:58.081 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:29:59.774 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:29:59.774 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:30:00.228 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:30:00.228 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:30:01.816 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:30:03.326 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:30:03.362 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:30:06.183 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:30:07.030 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:30:08.711 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:30:08.714 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:30:10.588 [main] StepDef - url open
+[INFO ] 2024-03-09 12:30:11.031 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:30:13.563 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:30:15.457 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:30:15.458 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:30:15.883 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:30:15.883 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:30:17.647 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:30:19.254 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:30:19.270 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:32:27.348 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:32:27.438 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:32:29.472 [main] StepDef - url open
+[INFO ] 2024-03-09 12:32:29.950 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:32:32.110 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:32:33.782 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:32:33.787 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:32:34.105 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:32:34.106 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:32:35.659 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:32:37.308 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:32:37.348 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:32:41.184 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:32:42.033 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:32:43.620 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:32:43.623 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:32:45.640 [main] StepDef - url open
+[INFO ] 2024-03-09 12:32:46.076 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:32:48.089 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:32:48.102 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:32:48.102 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:32:49.347 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:32:49.347 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:32:51.313 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:32:52.896 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:32:52.940 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:32:56.204 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:32:57.051 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:32:58.747 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:32:58.752 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:33:00.807 [main] StepDef - url open
+[INFO ] 2024-03-09 12:33:01.132 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:33:04.852 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:33:06.464 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:33:06.465 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:33:06.848 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:33:06.848 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:33:08.529 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:33:10.239 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:33:10.263 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:33:13.449 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:33:14.282 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:33:15.863 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:33:15.865 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:33:17.819 [main] StepDef - url open
+[INFO ] 2024-03-09 12:33:18.171 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:33:21.414 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:33:23.286 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:33:23.286 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:33:23.629 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:33:23.629 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:33:25.326 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:33:26.942 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:33:26.981 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:33:29.943 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:33:31.197 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:33:32.865 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:33:32.867 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:33:34.615 [main] StepDef - url open
+[INFO ] 2024-03-09 12:33:34.951 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:33:38.122 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:33:39.974 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:33:39.974 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:33:40.356 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:33:40.356 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:33:42.313 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:33:44.102 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:33:44.162 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:37:08.269 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:37:08.274 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:37:10.510 [main] StepDef - url open
+[INFO ] 2024-03-09 12:37:10.890 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:37:13.304 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:37:13.326 [main] StepDef - page title match
+[INFO ] 2024-03-09 12:37:17.156 [main] StepDef - click on logout button
+[INFO ] 2024-03-09 12:37:17.209 [main] StepDef - page title match
+[INFO ] 2024-03-09 12:37:18.021 [main] StepDef - close browser
+[INFO ] 2024-03-09 12:37:53.274 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:37:53.369 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:37:55.140 [main] StepDef - url open
+[INFO ] 2024-03-09 12:37:55.742 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:38:00.563 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:38:02.550 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:38:02.554 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:38:06.798 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:38:06.802 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:38:08.949 [main] StepDef - url open
+[INFO ] 2024-03-09 12:38:09.393 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:38:12.510 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:38:14.035 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:38:14.035 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:38:14.361 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:38:14.361 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:38:15.848 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:38:17.227 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:38:17.250 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:38:20.447 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:38:21.285 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:38:22.716 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:38:22.718 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:38:23.610 [main] StepDef - url open
+[INFO ] 2024-03-09 12:38:24.016 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:38:26.368 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:38:27.894 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:38:27.894 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:38:28.249 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:38:28.249 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:38:29.806 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:38:31.733 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:38:31.775 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:38:34.270 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:38:35.282 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:38:36.811 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:38:36.815 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:38:38.535 [main] StepDef - url open
+[INFO ] 2024-03-09 12:38:38.936 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:38:42.926 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:38:44.474 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:38:44.474 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:38:44.884 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:38:44.884 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:38:46.403 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:38:48.195 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:38:48.227 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:38:51.015 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:38:51.895 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:38:53.700 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:38:53.702 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:38:55.648 [main] StepDef - url open
+[INFO ] 2024-03-09 12:38:55.984 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:38:59.480 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:39:01.167 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:39:01.167 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:39:01.669 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:39:01.669 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:39:03.168 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:39:04.895 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:39:04.942 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:42:29.015 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:42:29.019 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:42:30.794 [main] StepDef - url open
+[INFO ] 2024-03-09 12:42:31.254 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:42:33.611 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:42:35.444 [main] StepDef - page title match
+[INFO ] 2024-03-09 12:42:37.887 [main] StepDef - click on logout button
+[INFO ] 2024-03-09 12:42:37.926 [main] StepDef - page title match
+[INFO ] 2024-03-09 12:42:38.737 [main] StepDef - close browser
+[INFO ] 2024-03-09 12:52:37.520 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:52:37.631 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:52:39.950 [main] StepDef - url open
+[INFO ] 2024-03-09 12:52:40.359 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:52:42.619 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:52:44.218 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:52:44.222 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:52:44.605 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:52:44.606 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:52:46.173 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:52:47.820 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:52:47.849 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:52:51.593 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:52:52.654 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:52:54.255 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:52:54.257 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:52:56.024 [main] StepDef - url open
+[INFO ] 2024-03-09 12:52:56.361 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:52:59.725 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:53:01.394 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:53:01.394 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:53:01.803 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:53:01.804 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:53:03.566 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:53:05.222 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:53:05.278 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:53:08.369 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:53:09.282 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:53:10.754 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:53:10.756 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:53:12.700 [main] StepDef - url open
+[INFO ] 2024-03-09 12:53:13.053 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:53:16.863 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:53:18.995 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:53:18.995 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:53:19.462 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:53:19.467 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:53:21.006 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:53:22.507 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:53:22.543 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:53:25.597 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:53:26.785 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:53:28.482 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:53:28.484 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:53:30.422 [main] StepDef - url open
+[INFO ] 2024-03-09 12:53:30.894 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:53:34.121 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:53:35.858 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:53:35.858 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:53:36.288 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:53:36.288 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:53:37.940 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:53:39.571 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:53:39.600 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:53:42.720 [main] StepDef - click on save button
+[WARN ] 2024-03-09 12:53:44.023 [main] StepDef - user can view confirmation message fail
+[INFO ] 2024-03-09 12:53:45.535 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:53:45.537 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:53:47.344 [main] StepDef - url open
+[INFO ] 2024-03-09 12:53:47.723 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:53:50.048 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:53:52.156 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:53:52.156 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:53:52.487 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:53:52.487 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:53:53.950 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:53:55.994 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:53:56.606 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:57:19.233 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:57:19.237 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:57:21.363 [main] StepDef - url open
+[INFO ] 2024-03-09 12:57:21.745 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:57:23.721 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:57:25.604 [main] StepDef - page title match
+[INFO ] 2024-03-09 12:57:28.127 [main] StepDef - click on logout button
+[INFO ] 2024-03-09 12:57:28.175 [main] StepDef - page title match
+[INFO ] 2024-03-09 12:59:42.687 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:59:42.794 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 12:59:44.867 [main] StepDef - url open
+[INFO ] 2024-03-09 12:59:45.337 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 12:59:47.357 [main] StepDef - click on login button
+[INFO ] 2024-03-09 12:59:48.940 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 12:59:48.945 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:59:49.319 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 12:59:49.319 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 12:59:50.750 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 12:59:52.390 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 12:59:52.434 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 12:59:56.524 [main] StepDef - click on save button
+[INFO ] 2024-03-09 12:59:57.407 [main] StepDef - user can view confirmation message pass
+[INFO ] 2024-03-09 12:59:57.678 [main] StepDef - close browser
+[INFO ] 2024-03-09 12:59:59.034 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 12:59:59.036 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 13:00:01.103 [main] StepDef - url open
+[INFO ] 2024-03-09 13:00:01.429 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 13:00:04.629 [main] StepDef - click on login button
+[INFO ] 2024-03-09 13:00:06.303 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 13:00:06.303 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 13:00:06.689 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 13:00:06.689 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 13:00:08.195 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 13:00:09.986 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 13:00:10.020 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 13:00:13.189 [main] StepDef - click on save button
+[INFO ] 2024-03-09 13:00:13.987 [main] StepDef - user can view confirmation message pass
+[INFO ] 2024-03-09 13:00:14.274 [main] StepDef - close browser
+[INFO ] 2024-03-09 13:00:15.378 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 13:00:15.381 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 13:00:17.281 [main] StepDef - url open
+[INFO ] 2024-03-09 13:00:17.677 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 13:00:20.690 [main] StepDef - click on login button
+[INFO ] 2024-03-09 13:00:22.464 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 13:00:22.464 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 13:00:22.803 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 13:00:22.803 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 13:00:24.166 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 13:00:26.342 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 13:00:26.858 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 13:00:29.399 [main] StepDef - click on save button
+[INFO ] 2024-03-09 13:00:29.573 [main] StepDef - user can view confirmation message pass
+[INFO ] 2024-03-09 13:00:29.895 [main] StepDef - close browser
+[INFO ] 2024-03-09 13:00:31.121 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 13:00:31.123 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 13:00:33.135 [main] StepDef - url open
+[INFO ] 2024-03-09 13:00:33.530 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 13:00:35.551 [main] StepDef - click on login button
+[INFO ] 2024-03-09 13:00:37.540 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 13:00:37.541 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 13:00:37.917 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 13:00:37.917 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 13:00:39.294 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 13:00:40.904 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 13:00:40.932 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 13:00:44.238 [main] StepDef - click on save button
+[INFO ] 2024-03-09 13:00:45.051 [main] StepDef - user can view confirmation message pass
+[INFO ] 2024-03-09 13:00:45.271 [main] StepDef - close browser
+[INFO ] 2024-03-09 13:00:46.441 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 13:00:46.452 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 13:00:48.539 [main] StepDef - url open
+[INFO ] 2024-03-09 13:00:48.994 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 13:00:51.306 [main] StepDef - click on login button
+[INFO ] 2024-03-09 13:00:53.009 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-09 13:00:53.009 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 13:00:53.341 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-09 13:00:53.341 [main] StepDef - user enter email add 
+[INFO ] 2024-03-09 13:00:54.923 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-09 13:00:56.473 [main] StepDef - user click on add new button
+[INFO ] 2024-03-09 13:00:56.503 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-09 13:03:51.776 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-09 13:03:51.780 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-09 13:03:53.956 [main] StepDef - url open
+[INFO ] 2024-03-09 13:03:54.386 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-09 13:03:56.361 [main] StepDef - click on login button
+[INFO ] 2024-03-09 13:03:57.963 [main] StepDef - page title match
+[INFO ] 2024-03-09 13:04:00.629 [main] StepDef - click on logout button
+[INFO ] 2024-03-09 13:04:00.656 [main] StepDef - page title match
+[INFO ] 2024-03-09 13:04:01.498 [main] StepDef - close browser
+[INFO ] 2024-03-10 21:35:27.833 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-10 21:35:27.954 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-10 21:35:29.922 [main] StepDef - url open
+[INFO ] 2024-03-10 21:35:30.387 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-10 21:35:32.411 [main] StepDef - click on login button
+[INFO ] 2024-03-10 21:35:33.846 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-10 21:35:33.849 [main] StepDef - user enter email add 
+[INFO ] 2024-03-10 21:35:34.159 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-10 21:35:34.159 [main] StepDef - user enter email add 
+[INFO ] 2024-03-10 21:35:35.705 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-10 21:35:37.238 [main] StepDef - user click on add new button
+[INFO ] 2024-03-10 21:35:37.260 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-10 21:35:42.274 [main] StepDef - click on save button
+[INFO ] 2024-03-10 21:35:42.990 [main] StepDef - user can view confirmation message pass
+[INFO ] 2024-03-10 21:35:43.791 [main] StepDef - close browser
+[INFO ] 2024-03-10 21:35:44.994 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-10 21:35:44.997 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-10 21:35:46.827 [main] StepDef - url open
+[INFO ] 2024-03-10 21:35:47.192 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-10 21:35:52.678 [main] StepDef - click on login button
+[INFO ] 2024-03-10 21:35:54.342 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-10 21:35:54.343 [main] StepDef - user enter email add 
+[INFO ] 2024-03-10 21:35:54.665 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-10 21:35:54.666 [main] StepDef - user enter email add 
+[INFO ] 2024-03-10 21:35:57.687 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-10 21:36:02.125 [main] StepDef - user click on add new button
+[INFO ] 2024-03-10 21:36:02.148 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-10 21:36:08.039 [main] StepDef - click on save button
+[INFO ] 2024-03-10 21:36:08.902 [main] StepDef - user can view confirmation message pass
+[INFO ] 2024-03-10 21:36:09.186 [main] StepDef - close browser
+[INFO ] 2024-03-10 21:36:10.432 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-10 21:36:10.435 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-10 21:36:13.247 [main] StepDef - url open
+[INFO ] 2024-03-10 21:36:13.615 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-10 21:36:19.744 [main] StepDef - click on login button
+[INFO ] 2024-03-10 21:36:21.373 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-10 21:36:21.373 [main] StepDef - user enter email add 
+[INFO ] 2024-03-10 21:36:21.723 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-10 21:36:21.723 [main] StepDef - user enter email add 
+[INFO ] 2024-03-10 21:36:23.129 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-10 21:36:24.646 [main] StepDef - user click on add new button
+[INFO ] 2024-03-10 21:36:24.684 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-10 21:36:27.492 [main] StepDef - click on save button
+[INFO ] 2024-03-10 21:36:28.342 [main] StepDef - user can view confirmation message pass
+[INFO ] 2024-03-10 21:36:28.668 [main] StepDef - close browser
+[INFO ] 2024-03-10 21:36:29.835 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-10 21:36:29.838 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-10 21:36:31.666 [main] StepDef - url open
+[INFO ] 2024-03-10 21:36:32.067 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-10 21:36:34.234 [main] StepDef - click on login button
+[INFO ] 2024-03-10 21:36:35.855 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-10 21:36:35.855 [main] StepDef - user enter email add 
+[INFO ] 2024-03-10 21:36:36.223 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-10 21:36:36.224 [main] StepDef - user enter email add 
+[INFO ] 2024-03-10 21:36:37.711 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-10 21:36:39.235 [main] StepDef - user click on add new button
+[INFO ] 2024-03-10 21:36:39.265 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-10 21:36:42.371 [main] StepDef - click on save button
+[INFO ] 2024-03-10 21:36:43.128 [main] StepDef - user can view confirmation message pass
+[INFO ] 2024-03-10 21:36:43.411 [main] StepDef - close browser
+[INFO ] 2024-03-10 21:36:44.413 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-10 21:36:44.417 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-10 21:36:46.749 [main] StepDef - url open
+[INFO ] 2024-03-10 21:36:47.102 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-10 21:36:59.990 [main] StepDef - click on login button
+[INFO ] 2024-03-10 21:37:01.655 [main] StepDef - user can view dashbord pass
+[INFO ] 2024-03-10 21:37:01.656 [main] StepDef - user enter email add 
+[INFO ] 2024-03-10 21:37:02.117 [main] StepDef - user click on customer menu
+[INFO ] 2024-03-10 21:37:02.117 [main] StepDef - user enter email add 
+[INFO ] 2024-03-10 21:37:05.021 [main] StepDef - user click on customer menu item
+[INFO ] 2024-03-10 21:37:07.299 [main] StepDef - user click on add new button
+[INFO ] 2024-03-10 21:37:07.355 [main] StepDef - user can view add new customer page pass
+[INFO ] 2024-03-10 21:40:30.915 [main] StepDef - Step 1 exicuted
+[INFO ] 2024-03-10 21:40:30.918 [main] StepDef - launch chrome browser
+[INFO ] 2024-03-10 21:40:33.788 [main] StepDef - url open
+[INFO ] 2024-03-10 21:40:34.225 [main] StepDef - enter email add and pwrd
+[INFO ] 2024-03-10 21:40:45.787 [main] StepDef - click on login button
+[INFO ] 2024-03-10 21:40:54.192 [main] StepDef - page title match
+[INFO ] 2024-03-10 21:40:57.942 [main] StepDef - click on logout button
+[INFO ] 2024-03-10 21:40:57.994 [main] StepDef - page title match
+[INFO ] 2024-03-10 21:40:58.818 [main] StepDef - close browser

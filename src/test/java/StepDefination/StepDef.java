@@ -1,10 +1,14 @@
 package StepDefination;
 
 import java.io.File;
+import java.io.IOException;
 import java.time.Duration;
+import java.util.List;
+import java.util.Map;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
+import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
@@ -16,6 +20,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import PageObject.AddNewCustomerPAGE;
 import PageObject.LoginPage;
 import PageObject.SearchCustomerPage;
+import Utilities.ExcelReader;
 import Utilities.RedConfig;
 import io.cucumber.java.After;
 import io.cucumber.java.AfterStep;
@@ -117,7 +122,7 @@ public class StepDef extends BaseClass{
 		Assert.assertEquals(actualTitle, expectedTitle);
 		log.info("page title match");
 		try {
-			Thread.sleep(200);
+			Thread.sleep(500);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -214,8 +219,39 @@ public class StepDef extends BaseClass{
 		}
 		
 	}
-
-	@When("User enter customer info")
+	
+	//-----------read excel file data-----------//
+	
+	@When("User enter customer info from sheetname {string} and rownumber {int}")
+	public void user_enter_customer_info_from_sheetname_and_rownumber(String sheetName, Integer rowNumber) throws InvalidFormatException, IOException  {
+		ExcelReader excelReader=new ExcelReader();
+		List<Map<String,String>> testData=
+				excelReader.getData("C:\\Users\\Shree\\Desktop\\Cucumber\\CucumberFramework\\TestDataExcelFile\\automation.xlsx", sheetName);
+		
+		String email=testData.get(rowNumber).get("EmailAddres");
+		String pwrd=testData.get(rowNumber).get("Password");
+		String fName=testData.get(rowNumber).get("FirstName");
+		String lName=testData.get(rowNumber).get("LastNmae");
+		String gender=testData.get(rowNumber).get("Gender");
+		//String dob=testData.get(rowNumber).get("Dob");
+		String comName=testData.get(rowNumber).get("CompanyName");
+		String adminContent=testData.get(rowNumber).get("AdminContent");
+		String managerVender=testData.get(rowNumber).get("ManagerOfVender");
+		
+		addNewCustomerPage.enterEmail(email);
+		addNewCustomerPage.enterPassword(pwrd);
+		addNewCustomerPage.enterFirstName(fName);
+		addNewCustomerPage.enterLastName(lName);
+		addNewCustomerPage.enterGender(gender);
+		//addNewCustomerPage.enterDob(dob);
+		addNewCustomerPage.enterCompanyName(comName);
+		addNewCustomerPage.enterAdminContent(adminContent);
+		addNewCustomerPage.enterManagerOfVendor(managerVender);
+		addNewCustomerPage.clickOnIsTax();
+		
+	}
+	
+	/*@When("User enter customer info")
 	public void user_enter_customer_info() {
 		//addNewCustomerPage.enterEmail("test21214@gmail.com");
 		addNewCustomerPage.enterEmail(generateRandomEmail()+"@gmail.com");
@@ -230,7 +266,7 @@ public class StepDef extends BaseClass{
 		addNewCustomerPage.enterManagerOfVendor("Vendor 1");
 		addNewCustomerPage.clickOnIsTax();
 		log.info("user can enter customer information");
-	}
+	}*/
 
 	@When("click on Save button")
 	public void click_on_save_button() {

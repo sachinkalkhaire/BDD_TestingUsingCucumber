@@ -12,7 +12,7 @@ When  User click on Log out link
 Then  Page title should be "Your store. Login"
 And   close browser
 
-@Sanity
+
 Scenario Outline: Successful login with valid Credentials DDT
 
 Given User launch Chrome browser

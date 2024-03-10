@@ -128,10 +128,10 @@ public class AddNewCustomerPAGE {
 			txtLastName.sendKeys(lastName);
 		}
 
-		public void enterDob(String dob)
-		{
-			txtDob.sendKeys(dob);
-		}
+	//	public void enterDob(String dob)
+	///	{
+	//		txtDob.sendKeys(dob);
+	//	}
 
 		public void enterCompanyName(String coName)
 		{
